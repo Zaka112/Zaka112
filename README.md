@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+React: <img src="https://img.icons8.com/office/30/000000/react.png"/> React
+JavaScript: <img src="https://img.icons8.com/color/30/000000/javascript.png"/> JavaScript
+HTML: <img src="https://img.icons8.com/color/30/000000/html-5.png"/> HTML
+CSS: <img src="https://img.icons8.com/color/30/000000/css3.png"/> CSS
 <!--
 **Zaka112/Zaka112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
