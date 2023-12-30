@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer, holds MS Software Engi
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([YourLinkedInProfileLink](https://www.linkedin.com/in/zaka112/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/zaka112/))
 
 Feel free to explore my projects and connect with me. Let's collaborate and build amazing things together!
 
