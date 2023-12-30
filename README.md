@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer, holds MS Software Engi
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?zaka112=zaka112&show_icons=true&hide_title=true&hide=issues,prs&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaka112&show_icons=true&hide_title=true&hide=issues,prs&count_private=true&theme=radical)
 
 ## Connect with Me
 
