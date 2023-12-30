@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer, holds MS Software Engi
 ## About Me
 
 - 👨‍💻 Full Stack Developer
-- 🌐 [https://portfolio-qg82.onrender.com/]
+- 🌐 [Your Website or Portfolio]
 - 📫 How to reach me: majorzaka@gmail.com
 
 ## Technologies & Tools
