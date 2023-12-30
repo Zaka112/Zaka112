@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a Full Stack Developer, holds MS Software Engi
 ## About Me
 
 - 👨‍💻 Full Stack Developer
-- 🌐 [[Portfolio](https://portfolio-qg82.onrender.com/)]
-- 📫 How to reach me: [[Email Here](majorzaka@gmail.com)]
+- 🌐 [Portfolio](https://portfolio-qg82.onrender.com/)
+- 📫 How to reach me: [Email Here](majorzaka@gmail.com)
 
 ## Technologies & Tools
 
@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I'm a Full Stack Developer, holds MS Software Engi
 
 ## Projects
 
-- [[E-Commerce-BookShop](https://bookshop-frontend-dos8.onrender.com/)] - The subjected project allows users to visit and view the books as well as add them to favorite and cart list. However, buying items is only possible after the user has logged in. Registered users can make orders, can check the list of orders and update their credentials. By default the register user has a role of "user". There are other roles as well. Admin can view the list of users and change their roles.
-- [BuY !T- Fakestores API](https://frontend-react-redux.netlify.app/])] - React Redux Toolkit-based online store. It fetches and displays a list of products, allowing users to search, sort, and view product details. Users can add/remove products to/from favorites and carts. The data is managed using Redux, the project includes routing and toggle for light/dark themes.
-- [Online Food Order System]([(https://danzeetech.com/user-dzfood/)]) - Vores mission er at hæve livskvaliteten for byforbrugeren med enestående bekvemmelighed. Bekvemmelighed er det, der får os til at handle. Det er det, der får os til at stå op og sige: 'Lad os gøre det her.'
+- [E-Commerce-BookShop](https://bookshop-frontend-dos8.onrender.com/) - The subjected project allows users to visit and view the books as well as add them to favorite and cart list. However, buying items is only possible after the user has logged in. Registered users can make orders, can check the list of orders and update their credentials. By default the register user has a role of "user". There are other roles as well. Admin can view the list of users and change their roles.
+- [BuY !T- Fakestores API](https://frontend-react-redux.netlify.app/]) - React Redux Toolkit-based online store. It fetches and displays a list of products, allowing users to search, sort, and view product details. Users can add/remove products to/from favorites and carts. The data is managed using Redux, the project includes routing and toggle for light/dark themes.
+- [Online Food Order System](https://danzeetech.com/user-dzfood/) - Vores mission er at hæve livskvaliteten for byforbrugeren med enestående bekvemmelighed. Bekvemmelighed er det, der får os til at handle. Det er det, der får os til at stå op og sige: 'Lad os gøre det her.'
 
 ## GitHub Stats
 
