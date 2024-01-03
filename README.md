@@ -1,6 +1,6 @@
 # Hello, I'm Zaka 👋
 
-Welcome to my GitHub profile! I'm a Full Stack Developer, holds MS Software Engineering and passionate about coding to contribute to solve real life problems. Here, you'll find some of the projects I've been working on.
+Welcome to my GitHub profile! I'm a Full Stack Developer, holds MS Software Engineering degree and passionate about coding to contribute to solve real life problems. Here, you'll find some of the projects I've been working on.
 
 ## About Me
 
